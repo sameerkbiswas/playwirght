@@ -1,0 +1,16 @@
+2026-06-24 13:51:06,856 - INFO - ===========Test Execution Started============
+2026-06-24 13:51:06,857 - INFO - User is on Gmail login page
+2026-06-24 13:51:06,857 - INFO - User enters valid username and password
+2026-06-24 13:51:06,857 - INFO - User clicks on the Sign in button
+2026-06-24 13:51:06,857 - INFO - User should be logged in successfully
+2026-06-24 13:51:47,144 - INFO - ===========Test Execution Started============
+2026-06-24 13:51:47,144 - INFO - User is on Gmail login page
+2026-06-24 13:51:47,145 - INFO - User enters valid username and password
+2026-06-24 13:51:47,145 - INFO - User clicks on the Sign in button
+2026-06-24 13:51:47,145 - INFO - User should be logged in successfully
+2026-06-24 13:55:25,300 - INFO - ===========Test Execution Started============
+2026-06-24 13:56:02,069 - INFO - ===========Test Execution Started============
+2026-06-24 13:56:02,070 - INFO - User is on Gmail login page
+2026-06-24 13:56:02,070 - INFO - User enters valid username and password
+2026-06-24 13:56:02,070 - INFO - User clicks on the Sign in button
+2026-06-24 13:56:02,070 - INFO - User should be logged in successfully

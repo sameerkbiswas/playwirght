@@ -1,3 +1,9 @@
 {
-    "base_url": "https://simple-grocery-store-api.click"
+    "base_url": "https://simple-grocery-store-api.click",
+    "cart_id": "0bFxomJoTrVhZtlWsOv_x",
+    "item_id": [
+        1225,
+        1709,
+        1710
+    ]
 }
