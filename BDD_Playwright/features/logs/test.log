@@ -1,16 +1,156 @@
-2026-06-24 13:51:06,856 - INFO - ===========Test Execution Started============
-2026-06-24 13:51:06,857 - INFO - User is on Gmail login page
-2026-06-24 13:51:06,857 - INFO - User enters valid username and password
-2026-06-24 13:51:06,857 - INFO - User clicks on the Sign in button
-2026-06-24 13:51:06,857 - INFO - User should be logged in successfully
-2026-06-24 13:51:47,144 - INFO - ===========Test Execution Started============
-2026-06-24 13:51:47,144 - INFO - User is on Gmail login page
-2026-06-24 13:51:47,145 - INFO - User enters valid username and password
-2026-06-24 13:51:47,145 - INFO - User clicks on the Sign in button
-2026-06-24 13:51:47,145 - INFO - User should be logged in successfully
-2026-06-24 13:55:25,300 - INFO - ===========Test Execution Started============
-2026-06-24 13:56:02,069 - INFO - ===========Test Execution Started============
-2026-06-24 13:56:02,070 - INFO - User is on Gmail login page
-2026-06-24 13:56:02,070 - INFO - User enters valid username and password
-2026-06-24 13:56:02,070 - INFO - User clicks on the Sign in button
-2026-06-24 13:56:02,070 - INFO - User should be logged in successfully
+2026-06-25 13:39:26,146 - INFO - ===========Test Execution Started============
+2026-06-25 13:39:26,148 - INFO - **********Starting Feature: Add an item to cart from amazon website**********
+2026-06-25 13:39:26,149 - INFO - -------------Starting Scenario: Add an item to cart from amazon website -- @1.1 --------------------
+2026-06-25 13:39:26,149 - INFO - -------------Ending Scenario: Add an item to cart from amazon website -- @1.1 --------------------
+2026-06-25 13:39:26,149 - INFO - -------------Starting Scenario: Add an item to cart from amazon website -- @1.2 --------------------
+2026-06-25 13:39:26,150 - INFO - -------------Ending Scenario: Add an item to cart from amazon website -- @1.2 --------------------
+2026-06-25 13:39:26,150 - INFO - -------------Starting Scenario: Add an item to cart from amazon website -- @1.3 --------------------
+2026-06-25 13:39:26,150 - INFO - -------------Ending Scenario: Add an item to cart from amazon website -- @1.3 --------------------
+2026-06-25 13:39:26,150 - INFO - **********Ending Feature: Add an item to cart from amazon website**********
+2026-06-25 13:39:26,150 - INFO - **********Starting Feature: Login into Gmail account**********
+2026-06-25 13:39:26,150 - INFO - -------------Starting Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,150 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Gmail login page
+2026-06-25 13:39:26,150 - INFO - User is on Gmail login page
+2026-06-25 13:39:26,150 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Gmail login page
+2026-06-25 13:39:26,151 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid gmail username and password
+2026-06-25 13:39:26,151 - INFO - User enters valid username and password
+2026-06-25 13:39:26,151 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid gmail username and password
+2026-06-25 13:39:26,151 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button
+2026-06-25 13:39:26,151 - INFO - User clicks on the Sign in button
+2026-06-25 13:39:26,151 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button
+2026-06-25 13:39:26,151 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully
+2026-06-25 13:39:26,151 - INFO - User should be logged in successfully
+2026-06-25 13:39:26,151 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully
+2026-06-25 13:39:26,151 - INFO - -------------Ending Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,152 - INFO - -------------Starting Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,152 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Gmail login page
+2026-06-25 13:39:26,152 - INFO - User is on Gmail login page
+2026-06-25 13:39:26,152 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Gmail login page
+2026-06-25 13:39:26,153 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid gmail username1 and password1
+2026-06-25 13:39:26,153 - INFO - User enters valid username1 and password1
+2026-06-25 13:39:26,153 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid gmail username1 and password1
+2026-06-25 13:39:26,153 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button
+2026-06-25 13:39:26,153 - INFO - User clicks on the Sign in button
+2026-06-25 13:39:26,153 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button
+2026-06-25 13:39:26,153 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully
+2026-06-25 13:39:26,153 - INFO - User should be logged in successfully
+2026-06-25 13:39:26,153 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully
+2026-06-25 13:39:26,153 - INFO - -------------Ending Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,154 - INFO - -------------Starting Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Gmail login page
+2026-06-25 13:39:26,154 - INFO - User is on Gmail login page
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Gmail login page
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid gmail username2 and password2
+2026-06-25 13:39:26,154 - INFO - User enters valid username2 and password2
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid gmail username2 and password2
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button
+2026-06-25 13:39:26,154 - INFO - User clicks on the Sign in button
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully
+2026-06-25 13:39:26,154 - INFO - User should be logged in successfully
+2026-06-25 13:39:26,154 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully
+2026-06-25 13:39:26,154 - INFO - -------------Ending Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,154 - INFO - -------------Starting Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Gmail login page
+2026-06-25 13:39:26,155 - INFO - User is on Gmail login page
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Gmail login page
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid gmail username3 and password3
+2026-06-25 13:39:26,155 - INFO - User enters valid username3 and password3
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid gmail username3 and password3
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button
+2026-06-25 13:39:26,155 - INFO - User clicks on the Sign in button
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully
+2026-06-25 13:39:26,155 - INFO - User should be logged in successfully
+2026-06-25 13:39:26,155 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully
+2026-06-25 13:39:26,155 - INFO - -------------Ending Scenario: User should be able to login into Gmail account--------------------
+2026-06-25 13:39:26,155 - INFO - **********Ending Feature: Login into Gmail account**********
+2026-06-25 13:39:26,156 - INFO - **********Starting Feature: Register an account in Rediff Mail**********
+2026-06-25 13:39:26,156 - INFO - -------------Starting Scenario: User should be able to register an account in Rediff Mail--------------------
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Rediff Mail registration page
+2026-06-25 13:39:26,156 - INFO - User is on Rediff Mail registration page
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Rediff Mail registration page
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid details for registration
+2026-06-25 13:39:26,156 - INFO - User enters valid details for registration: username=testuser, email=test@example.com, password=testpass, phone=1234567890
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid details for registration
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Register button
+2026-06-25 13:39:26,156 - INFO - User clicks on the Register button
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Register button
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be registered successfully
+2026-06-25 13:39:26,156 - INFO - User should be registered successfully
+2026-06-25 13:39:26,156 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be registered successfully
+2026-06-25 13:39:26,156 - INFO - -------------Ending Scenario: User should be able to register an account in Rediff Mail--------------------
+2026-06-25 13:39:26,156 - INFO - **********Ending Feature: Register an account in Rediff Mail**********
+2026-06-25 13:39:26,157 - INFO - **********Starting Feature: Login into yahoo account**********
+2026-06-25 13:39:26,157 - INFO - -------------Starting Scenario: User should be able to login into yahoo account -- @1.1 --------------------
+2026-06-25 13:39:26,157 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Yahoo login page
+2026-06-25 13:39:26,157 - INFO - User is on Yahoo login page
+2026-06-25 13:39:26,157 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Yahoo login page
+2026-06-25 13:39:26,157 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid username "Name1" and password "Password1"
+2026-06-25 13:39:26,158 - INFO - User enters valid username "Name1" and password "Password1"
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid username "Name1" and password "Password1"
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,158 - INFO - User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,158 - INFO - User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,158 - INFO - -------------Ending Scenario: User should be able to login into yahoo account -- @1.1 --------------------
+2026-06-25 13:39:26,158 - INFO - -------------Starting Scenario: User should be able to login into yahoo account -- @1.2 --------------------
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Yahoo login page
+2026-06-25 13:39:26,158 - INFO - User is on Yahoo login page
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Yahoo login page
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid username "Name2" and password "Password2"
+2026-06-25 13:39:26,158 - INFO - User enters valid username "Name2" and password "Password2"
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid username "Name2" and password "Password2"
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,158 - INFO - User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,158 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,159 - INFO - User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,159 - INFO - -------------Ending Scenario: User should be able to login into yahoo account -- @1.2 --------------------
+2026-06-25 13:39:26,159 - INFO - -------------Starting Scenario: User should be able to login into yahoo account -- @1.3 --------------------
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Yahoo login page
+2026-06-25 13:39:26,159 - INFO - User is on Yahoo login page
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Yahoo login page
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid username "Name3" and password "Password3"
+2026-06-25 13:39:26,159 - INFO - User enters valid username "Name3" and password "Password3"
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid username "Name3" and password "Password3"
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,159 - INFO - User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,159 - INFO - User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,159 - INFO - -------------Ending Scenario: User should be able to login into yahoo account -- @1.3 --------------------
+2026-06-25 13:39:26,159 - INFO - -------------Starting Scenario: User should be able to login into yahoo account -- @1.4 --------------------
+2026-06-25 13:39:26,159 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Yahoo login page
+2026-06-25 13:39:26,160 - INFO - User is on Yahoo login page
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Yahoo login page
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid username "Name4" and password "Password4"
+2026-06-25 13:39:26,160 - INFO - User enters valid username "Name4" and password "Password4"
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid username "Name4" and password "Password4"
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,160 - INFO - User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,160 - INFO - User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,160 - INFO - -------------Ending Scenario: User should be able to login into yahoo account -- @1.4 --------------------
+2026-06-25 13:39:26,160 - INFO - -------------Starting Scenario: User should be able to login into yahoo account -- @1.5 --------------------
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User is on Yahoo login page
+2026-06-25 13:39:26,160 - INFO - User is on Yahoo login page
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User is on Yahoo login page
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User enters valid username "Name5" and password "Password5"
+2026-06-25 13:39:26,160 - INFO - User enters valid username "Name5" and password "Password5"
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User enters valid username "Name5" and password "Password5"
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,160 - INFO - User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,160 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User clicks on the Sign in button in the yahoo
+2026-06-25 13:39:26,161 - INFO - ^^^^^^^^^^^^^^^^^^^Executing Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,161 - INFO - User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,161 - INFO - ^^^^^^^^^^^^^^^^^^^Completed Step: User should be logged in successfully for yahoo page
+2026-06-25 13:39:26,161 - INFO - -------------Ending Scenario: User should be able to login into yahoo account -- @1.5 --------------------
+2026-06-25 13:39:26,161 - INFO - **********Ending Feature: Login into yahoo account**********
+2026-06-25 13:39:26,161 - INFO - ===========Gmail Server stopped============

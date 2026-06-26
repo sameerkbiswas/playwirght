@@ -8,6 +8,7 @@ def step_impl(context):
 @when(u'User enters valid username and password')
 def step_impl(context):
     logging.info("User enters valid username and password")
+    assert 1 == 2
 
 @when(u'User clicks on the Sign in button')
 def step_impl(context):
@@ -17,3 +18,8 @@ def step_impl(context):
 @then(u'User should be logged in successfully')
 def step_impl(context):
     logging.info("User should be logged in successfully")
+    # assert 1 == 2
+
+@when(u'User enters valid gmail {username} and {password}')
+def step_impl(context, username, password):
+    logging.info("User enters valid %s and %s", username, password)

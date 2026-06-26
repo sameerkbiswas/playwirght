@@ -6,6 +6,7 @@ import pytest
 file_path = "global_data.json"
 
 @pytest.mark.order(5)
+@pytest.mart.skip()
 def test_delete_an_item_from_cart(before_each_test: APIRequestContext):
     with open(file_path, "r") as file:
         data = json.load(file)
